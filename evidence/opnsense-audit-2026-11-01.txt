@@ -1,0 +1,24 @@
+***GOT REQUEST TO AUDIT SECURITY***
+Currently running OPNsense 26.7.8_2 (amd64) at Sun Nov  1 23:47:28 UTC 2026
+Fetching vuln.xml.xz: .......... done
+python313-3.13.16 is vulnerable:
+  Python -- poplib module, when passed a user-controlled command, can have additional commands injected using newlines
+  CVE: CVE-2025-15367
+  WWW: https://vuxml.FreeBSD.org/freebsd/6d3488ae-2e0f-11f1-88c7-00a098b42aeb.html
+
+sqlite3-3.53.4,1 is vulnerable:
+  sqlite3 -- multiple vulnerabilities
+  CVE: CVE-2026-119371
+  CVE: CVE-2026-119372
+  CVE: CVE-2026-119373
+  CVE: CVE-2026-119374
+  CVE: CVE-2026-119375
+  CVE: CVE-2026-119376
+  CVE: CVE-2026-119377
+  CVE: CVE-2026-119378
+  CVE: CVE-2026-119379
+  CVE: CVE-2026-119591
+  WWW: https://vuxml.FreeBSD.org/freebsd/84cd82e1-d49f-11f1-bae2-3497f65b111b.html
+
+2 problem(s) in 2 package(s) found.
+***DONE***
